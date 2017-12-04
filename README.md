@@ -2,6 +2,6 @@
 
 This is my Camera Effects Project.
 
-![picture_title](picture filename?raw=true "Optional Title") 
+![Feliz navidad](https://github.com/ruizv/ruizv.github.io/blob/master/Feliz%20navidad.PNG?raw=true "Optional Title") 
 
 ***
